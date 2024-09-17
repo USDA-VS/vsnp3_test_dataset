@@ -1,0 +1,2 @@
+An imputed ancestral reference genome for the Mycobacterium tuberculosis complex better captures structural genomic diversity for reference-based alignment workflows
+Authors: Luke B Harrison, Vivek Kapur, Marcel A Behr  
